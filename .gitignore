@@ -1,0 +1,14 @@
+# CodeBlocks Files
+*.depend
+*.layout
+bin/
+obj/
+
+# VSCode Files
+.vs/
+x64/
+x86/
+
+# MakeFile
+*.exe
+*.o
